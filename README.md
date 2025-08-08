@@ -63,7 +63,7 @@ Welcome to the **ultimate CompTIA Security+ (SY0-701) study resource**. This rep
 ## 🚀 Getting Started
 ```bash
 # Clone the repository
-git clone https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet.git
+git clone https://github.com/MaheshShukla1/CompTIA-Security-Plus-SY0-701-Notes-CheatSheet-Exam-Prep.git
 
 # Navigate into the folder
-cd CompTIA-Security-Plus-Notes-Cheatsheet
+cd CompTIA-Security-Plus-SY0-701-Notes-CheatSheet-Exam-Prep

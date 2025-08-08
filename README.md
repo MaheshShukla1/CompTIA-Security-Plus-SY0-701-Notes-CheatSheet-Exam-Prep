@@ -1,63 +1,69 @@
-# 📚 CompTIA Security+ Notes & Cheatsheet 📘
+# 📚 CompTIA Security+ Notes & Cheatsheet (SY0-701) – Complete Exam Prep Guide
 
-## [CompTia Security cheat sheet guide](https://github.com/MaheshShukla1/CompTia-Security-prep/wiki/CompTia-Security--cheat-sheet-guide)
+<p align="center">
+  <img src="https://github.com/MaheshShukla1/CompTIA-Security-Plus-SY0-701-Notes-CheatSheet-Exam-Prep/blob/main/comptibanner.png" alt="CompTIA Security+ Notes & Cheatsheet – SY0-701 Study Guide, Exam Prep, and Practice" width="100%">
+</p>
 
-## [Mastering Control Objectives and Cybersecurity Essentials](https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet/wiki/Mastering-Control-Objectives-and-Cybersecurity-Essentials)
+Welcome to the **ultimate CompTIA Security+ (SY0-701) study resource**. This repository is crafted to help cybersecurity professionals and aspiring analysts **master the Security+ domains** and **pass the exam on the first try**.  
 
-## [Comparing Security Controls](https://github.com/MaheshShukla1/CompTIA-SY0-701-Security-Study-Notes/wiki/Comparing-Security-Controls)
+---
 
-#### Welcome to the CompTIA Security+ Notes & Cheatsheet repository! This resource is meticulously crafted to help you prepare effectively for the CompTIA Security+ exam (SY0-701).
+## 🔗 Quick Access – Premium Wiki Study Guides
+- 📄 **[Security+ Cheat Sheet Guide](https://github.com/MaheshShukla1/CompTia-Security-prep/wiki/CompTia-Security--cheat-sheet-guide)** – Fast facts, critical concepts, and quick recalls for last-minute prep.  
+- 🎯 **[Mastering Control Objectives & Cybersecurity Essentials](https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet/wiki/Mastering-Control-Objectives-and-Cybersecurity-Essentials)** – Deep dive into security controls, frameworks, and compliance essentials.  
+- 🔍 **[Comparing Security Controls](https://github.com/MaheshShukla1/CompTIA-SY0-701-Security-Study-Notes/wiki/Comparing-Security-Controls)** – Side-by-side analysis of security control types for easy understanding.  
 
-#### Welcome to the CompTIA Security+ Notes & Cheatsheet repository! This resource is designed to help you prepare effectively for the CompTIA Security+ exam.
+---
 
-### 📝 Contents
-* Detailed Notes: Comprehensive explanations of key Security+ concepts.
-* Cheatsheet: Quick reference guide for essential terms, protocols, and commands
-* Mastering Control Objectives: Understanding and mastering the security control objectives
-* Exam Objectives Mapping: Mapped to the latest exam objectives to ensure full coverage
-* Study Tips: Practical advice to enhance your exam preparation and study strategies.
-  
-### 💡 Why Use This Repo?
-* Clear and Concise: Easy-to-follow notes that simplify complex topics.
-* Comprehensive Coverage: All exam domains are thoroughly covered for a holistic understanding.
-* Regular Updates: Stay up-to-date with the latest exam changes and trends.
-* Interactive Learning: Engage with interactive elements like quizzes, flashcards, and practice exams.
-  
-### 🚀 Getting Started
-* Clone the Repo: Run git clone https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet.git to clone the repository to your local machine.
-* Explore the Content: Browse through the notes, cheatsheets, and additional resources provided.
-* Start Studying: Use the material to reinforce your understanding and improve your exam readiness.
-  
-### 📚 CompTIA Security+ Exam Topics
+## 📝 Contents
+- **Detailed Notes** – Comprehensive coverage of all SY0-701 exam objectives  
+- **Cheatsheet** – Fast lookup for commands, terms, and protocols  
+- **Security Controls Mastery** – Understand NIST, ISO, CIS, and other frameworks  
+- **Exam Objective Mapping** – Every domain and subtopic covered  
+- **Study Tips & Tricks** – Proven strategies for memory retention  
 
-* 1. Threats, Attacks, and Vulnerabilities
-Types of attacks (e.g., social engineering, malware, DDoS)
-Vulnerability assessment and management
-Common threat actors and their characteristics
+---
 
-* 2. Technologies and Tools
-Cryptographic concepts and methods (e.g., encryption, hashing, digital signatures)
-Network security devices (e.g., firewalls, IDS/IPS, VPNs)
-Secure protocols and services (e.g., HTTPS, SSH, DNSSEC)
+## 💡 Why Choose This Repo for Your Security+ Prep?
+✅ **Clear & Concise** – No fluff, just exam-relevant content  
+✅ **Complete Coverage** – All Security+ domains included  
+✅ **Updated for SY0-701** – Reflects the latest CompTIA changes  
+✅ **Optimized for Revision** – Cheatsheets, summaries, and quick recalls  
+✅ **Interactive Learning** – Compatible with flashcards, quizzes, and labs  
 
-* 3. Architecture and Design
-Secure network design principles (e.g., DMZ, segmentation, zoning)
-Identity and access management (IAM) concepts (e.g., authentication, authorization, MFA)
-Security controls and best practices for systems and applications
+---
 
-* 4. Identity and Access Management (IAM)
-Authentication factors and methods (e.g., biometrics, tokens, passwords)
-Access control models (e.g., discretionary, mandatory, role-based)
-Account management practices (e.g., provisioning, deprovisioning, auditing)
+## 📚 Security+ SY0-701 Exam Domains
+### 1️⃣ Threats, Attacks, and Vulnerabilities
+- Social engineering, malware, phishing, DDoS  
+- Vulnerability assessments & threat actor profiles  
 
-* 5. Risk Management
-Risk assessment methodologies (e.g., qualitative, quantitative, hybrid)
-Incident response procedures (e.g., detection, containment, recovery)
-Business continuity and disaster recovery planning
+### 2️⃣ Technologies and Tools
+- Cryptographic methods – encryption, hashing, digital signatures  
+- Network security devices – firewalls, IDS/IPS, VPNs  
+- Secure protocols – HTTPS, SSH, DNSSEC  
 
-### 🤝 Contributions
-Feel free to contribute by opening issues for feedback, suggestions, or errors found in the content. Pull requests are also welcome to enhance and improve the repository's content.
+### 3️⃣ Architecture and Design
+- Secure network design – DMZ, segmentation, zoning  
+- Identity & Access Management (IAM) principles  
+- Security best practices for systems & apps  
 
-### 📜 License
-#### This project is licensed under the MIT License - see the [License.txt](https://github.com/user-attachments/files/15513942/License.txt)
-#### Start your journey to becoming Security+ certified today!
+### 4️⃣ Identity and Access Management
+- Authentication factors – biometrics, MFA, tokens  
+- Access control models – RBAC, DAC, MAC  
+- Account lifecycle management & auditing  
+
+### 5️⃣ Risk Management
+- Risk assessment – qualitative & quantitative  
+- Incident response – detection, containment, recovery  
+- Disaster recovery & business continuity planning  
+
+---
+
+## 🚀 Getting Started
+```bash
+# Clone the repository
+git clone https://github.com/MaheshShukla1/CompTIA-Security-Plus-Notes-Cheatsheet.git
+
+# Navigate into the folder
+cd CompTIA-Security-Plus-Notes-Cheatsheet
